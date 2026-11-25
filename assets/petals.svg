@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" aria-hidden="true">
+  <defs>
+    <linearGradient id="p" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1a8fd6"/><stop offset="1" stop-color="#18d0bd"/></linearGradient>
+  </defs>
+  <!-- Cuatro "pétalos" de cuarto de círculo, como el elemento decorativo del sitio -->
+  <path d="M0 0 H48 V48 A48 48 0 0 1 0 0 Z" fill="url(#p)"/>
+  <path d="M52 0 H100 A48 48 0 0 1 52 48 Z" fill="url(#p)"/>
+  <path d="M0 100 A48 48 0 0 1 48 52 V100 Z" fill="url(#p)"/>
+  <path d="M52 52 A48 48 0 0 1 100 100 H52 Z" fill="url(#p)"/>
+</svg>

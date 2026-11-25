@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Disuco">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14b8e0"/><stop offset="1" stop-color="#0e9fd0"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a8fd6"/><stop offset="1" stop-color="#147ec4"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3c9dff"/><stop offset="1" stop-color="#2f86f0"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18c8c0"/><stop offset="1" stop-color="#25dca6"/></linearGradient>
+  </defs>
+  <path d="M47 3 A47 47 0 0 0 3 47 L47 47 Z" fill="url(#g1)"/>
+  <path d="M53 3 A47 47 0 0 1 97 47 L53 47 Z" fill="url(#g2)"/>
+  <path d="M3 53 A47 47 0 0 0 47 97 L47 53 Z" fill="url(#g3)"/>
+  <path d="M97 53 A47 47 0 0 1 53 97 L53 53 Z" fill="url(#g4)"/>
+</svg>
